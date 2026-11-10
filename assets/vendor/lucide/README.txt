@@ -1,0 +1,1 @@
+lucide-static 1.70.0 (ISC). Source: https://lucide.dev, npm lucide-static. icon-nodes.json = every icon as [tag, attrs] nodes on a 24 grid; tags.json = search keywords. Update: npm install -D lucide-static@latest in the project, then copy these three files again.
